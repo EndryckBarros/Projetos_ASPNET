@@ -1,0 +1,8 @@
+f:\documents\visual studio 2015\Projects\WebApplication1\BaseModels\bin\Debug\BaseModels.dll
+f:\documents\visual studio 2015\Projects\WebApplication1\BaseModels\bin\Debug\BaseModels.pdb
+f:\documents\visual studio 2015\Projects\WebApplication1\BaseModels\obj\Debug\BaseModels.dll
+f:\documents\visual studio 2015\Projects\WebApplication1\BaseModels\obj\Debug\BaseModels.pdb
+C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\bin\Debug\BaseModels.dll
+C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\bin\Debug\BaseModels.pdb
+C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\obj\Debug\BaseModels.dll
+C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\obj\Debug\BaseModels.pdb

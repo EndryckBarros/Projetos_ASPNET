@@ -1,0 +1,43 @@
+﻿@model BaseModels.Servico
+
+@{
+    ViewBag.Title = "Deletar";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Você tem certeza que deseja Deletar?</h3>
+<div>
+    <h4>Servico</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Preco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preco)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-danger" /> |
+            <button type="button" class="btn btn-default" aria-label="Left Align">
+                <span onclick="location.href='@Url.Action("Index","Clientes")'"
+                      class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
+            </button>
+        </div>
+    }
+</div>

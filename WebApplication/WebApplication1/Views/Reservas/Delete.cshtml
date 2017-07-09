@@ -1,0 +1,51 @@
+﻿@model BaseModels.Reserva
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Tem certeza que deseja deletar?</h3>
+<div>
+    <h4>Reserva</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model._Cliente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model._Cliente.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model._Servico.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model._Servico.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input  type="submit" value="Excluir" class="btn btn-danger" />
+            <button type="button" class="btn btn-default" aria-label="Left Align">
+                <span onclick="location.href='@Url.Action("Index","Clientes")'"
+                      class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
+            </button>
+        </div>
+    }
+</div>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BaseModels.Servico>
+
+@{
+    ViewBag.Title = "Listagem";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    <button type="button" class="btn btn-default" aria-label="Left Align">
+        <span onclick="location.href='@Url.Action("Create","Servicos")'"
+              class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+    </button>
+
+    @*@Html.ActionLink("Cadastrar Novo", "Create")*@
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Preco)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Preco)
+        </td>
+        <td>
+            <button type="button" onclick="location.href='@Url.Action("Edit","Servicos",
+                    new { id=item.ServicoID })'" class="btn btn-primary">Editar</button>
+            <button type="button" onclick="location.href='@Url.Action("Details","Servicos",
+                    new { id=item.ServicoID })'" class="btn btn-info">Detalhes</button>
+            <button type="button" onclick="location.href='@Url.Action("Delete","Servicos",
+                    new { id=item.ServicoID })'" class="btn btn-danger">Excluir</button>
+
+            @*@Html.ActionLink("Editar", "Edit", new { id=item.ServicoID }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.ServicoID }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.ServicoID })*@
+        </td>
+    </tr>
+}
+
+</table>

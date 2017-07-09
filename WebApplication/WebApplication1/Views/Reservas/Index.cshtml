@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BaseModels.Reserva>
+
+@{
+    ViewBag.Title = "Listagem";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    <button type="button" class="btn btn-default" aria-label="Left Align">
+        <span onclick="location.href='@Url.Action("Create","Reservas")'"
+              class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+    </button>
+
+    @*@Html.ActionLink("Cadastrar Novo", "Create")*@
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model._Cliente.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model._Servico.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item._Cliente.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item._Servico.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            <button type="button" onclick="location.href='@Url.Action("Edit","Reservas", 
+                    new { id=item.ReservaID })'"class="btn btn-primary">Editar</button>
+            <button type="button" onclick="location.href='@Url.Action("Details","Reservas",
+                    new { id=item.ReservaID })'" class="btn btn-info">Detalhes</button>
+            <button type="button" onclick="location.href='@Url.Action("Delete","Reservas",
+                    new { id=item.ReservaID })'" class="btn btn-danger">Excluir</button>
+
+            @*@Html.ActionLink("Editar", "Edit", new { id=item.ReservaID }) |
+              @Html.ActionLink("Detalhes", "Details", new { id=item.ReservaID }) |
+              @Html.ActionLink("Deletar", "Delete", new { id=item.ReservaID })*@
+        </td>
+    </tr>
+}
+
+</table>

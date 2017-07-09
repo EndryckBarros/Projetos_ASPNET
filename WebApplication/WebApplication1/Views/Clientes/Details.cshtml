@@ -1,0 +1,43 @@
+﻿@model BaseModels.Cliente
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" class="btn btn-default" aria-label="Left Align">
+        <span onclick="location.href='@Url.Action("Edit","Clientes", new { id = Model.ClienteID })'"
+              class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+    </button>
+    <button type="button" class="btn btn-default" aria-label="Left Align">
+        <span onclick="location.href='@Url.Action("Index","Clientes")'"
+              class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
+    </button>
+
+    @*@Html.ActionLink("Editar", "Edit", new { id = Model.ClienteID }) |
+    @Html.ActionLink("Retornar para Lista", "Index")*@
+</p>
