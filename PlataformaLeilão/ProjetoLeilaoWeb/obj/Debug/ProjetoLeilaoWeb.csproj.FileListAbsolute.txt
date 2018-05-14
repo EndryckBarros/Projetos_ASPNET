@@ -1,0 +1,163 @@
+f:\documents\visual studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\documents\visual studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\documents\visual studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\System.Collections.Immutable.dll
+f:\documents\visual studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\System.Reflection.Metadata.dll
+f:\documents\visual studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\VBCSCompiler.exe
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\ApplicationInsights.config
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\csc.exe
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\vbc.exe
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.dll.config
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.pdb
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Antlr3.Runtime.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\EntityFramework.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\EntityFramework.SqlServer.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.Web.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Newtonsoft.Json.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Owin.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Helpers.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Mvc.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Optimization.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Razor.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.Deployment.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.Razor.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\WebGrease.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.Web.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Helpers.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Mvc.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Optimization.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.Razor.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.Deployment.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\System.Web.WebPages.Razor.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Antlr3.Runtime.pdb
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Newtonsoft.Json.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\EntityFramework.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\EntityFramework.SqlServer.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\obj\Debug\ProjetoLeilaoWeb.dll
+F:\Documents\Visual Studio 2015\Projects\ConexaoDB\ProjetoLeilaoWeb\obj\Debug\ProjetoLeilaoWeb.pdb
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\ApplicationInsights.config
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\csc.exe
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\vbc.exe
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.dll.config
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\ProjetoLeilaoWeb.pdb
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\EntityFramework.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Owin.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Helpers.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Mvc.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Optimization.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Razor.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\WebGrease.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Helpers.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Mvc.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Optimization.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.Razor.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\EntityFramework.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\obj\Debug\ProjetoLeilaoWeb.csprojResolveAssemblyReference.cache
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\obj\Debug\ProjetoLeilaoWeb.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\PlataformaLeilão\ProjetoLeilaoWeb\obj\Debug\ProjetoLeilaoWeb.pdb

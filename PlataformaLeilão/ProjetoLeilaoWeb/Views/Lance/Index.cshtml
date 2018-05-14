@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProjetoLeilaoWeb.Models.Lance>
+
+@{
+    ViewBag.Title = "Lances";
+}
+
+<h2>Lances</h2>
+
+<p>
+    @Html.ActionLink("Dar Lance", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Pessoa")
+        </th>
+        <th>
+            @Html.DisplayName("Produto")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Valor)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PessoaID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProdutoID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Valor)
+        </td>
+        <td>
+            @Html.ActionLink("Lance Maior", "Create", new { id=item.LanceID }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.LanceID }) |
+            
+        </td>
+    </tr>
+}
+
+</table>

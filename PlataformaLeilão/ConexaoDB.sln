@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexaoDB", "ConexaoDB\ConexaoDB.csproj", "{F328F797-4DF9-45BA-AE8F-302CB809F067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoLeilaoWeb", "ProjetoLeilaoWeb\ProjetoLeilaoWeb.csproj", "{5F20D69D-81F0-45BF-953F-2835DFDADB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F328F797-4DF9-45BA-AE8F-302CB809F067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F328F797-4DF9-45BA-AE8F-302CB809F067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F328F797-4DF9-45BA-AE8F-302CB809F067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F328F797-4DF9-45BA-AE8F-302CB809F067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F20D69D-81F0-45BF-953F-2835DFDADB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F20D69D-81F0-45BF-953F-2835DFDADB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F20D69D-81F0-45BF-953F-2835DFDADB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F20D69D-81F0-45BF-953F-2835DFDADB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

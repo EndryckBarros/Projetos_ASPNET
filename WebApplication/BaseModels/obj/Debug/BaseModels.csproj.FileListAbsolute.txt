@@ -6,3 +6,8 @@ C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\bin\Debu
 C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\bin\Debug\BaseModels.pdb
 C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\obj\Debug\BaseModels.dll
 C:\Users\Endrick\Source\Repos\Aula1_Asp.Net2\WebApplication1\BaseModels\obj\Debug\BaseModels.pdb
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\WebApplication\BaseModels\bin\Debug\BaseModels.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\WebApplication\BaseModels\bin\Debug\BaseModels.pdb
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\WebApplication\BaseModels\obj\Debug\BaseModels.csprojResolveAssemblyReference.cache
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\WebApplication\BaseModels\obj\Debug\BaseModels.dll
+C:\Users\Endrick\Source\Repos\Projetos_ASPNET\WebApplication\BaseModels\obj\Debug\BaseModels.pdb
