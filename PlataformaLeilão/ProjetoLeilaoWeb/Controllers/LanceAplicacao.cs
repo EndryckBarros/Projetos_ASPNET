@@ -74,15 +74,12 @@ namespace ProjetoLeilaoWeb.Controllers
         }
 
         public bool Salvar(Lance lance)
-        {
-            var app = new ProdutoAplicacao();
-            var produto = app.ListarPorId(lance.ProdutoID);
+        {           
             var retorno = ListarPorProduto(lance.ProdutoID);
-            
 
             foreach (var lanceLista in retorno)
             {
-                if(lanceLista.Valor <= lance.Valor || produto.Valor < lance.Valor)
+                if(lanceLista.Valor <= lance.Valor)
                 {
                     return false;
                 }
