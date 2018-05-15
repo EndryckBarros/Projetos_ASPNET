@@ -64,6 +64,7 @@ namespace ConexaoDB
 //  (LanceID int IDENTITY(1,1) NOT NULL,
 //  ProdutoID int NOT NULL,
 //  PessoaID int NOT NULL,
+//  Valor int NOT NULL,
 //  primary key(LanceID),
 //  foreign key(ProdutoID) references Produto(ProdutoID),
 //  foreign key(PessoaID) references Pessoa(PessoaID));
